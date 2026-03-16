@@ -1,0 +1,1 @@
+In Assignment 7, you created interactive Altair visualizations and exported them as a single HTML file. The goal of part 1 of this assignment is to publish that HTML file online to GitHub Pages. All three visualizations from Assignment 7 must be visible and interactive on the deployed page
